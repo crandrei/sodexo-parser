@@ -7,5 +7,7 @@ Command-line menu for Sodexo restaurants
 ```
 alias menu="python /path/to/folder/sodexo-parser.py"
 ```
-3. Run 'menu' from command-line
+3. Run from command line : 
+  * 'menu' for Finnish language menu 
+  * 'menu en' for English language menu
 4. Enjoy the food!
